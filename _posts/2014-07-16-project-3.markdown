@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2018-07-10
 img: post_3_image.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2018
+client: Lúdico personal
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+description: Bot programado en la plataforma de Dialogflow al que se le introducen datos relativos al kilometraje realizado y calcula la nómina resultante. <a href="https://bot.dialogflow.com/calcula-nomina-chofer-murcia">Bot Calculador de Nómina para conductores de largo recorrido de la Región de Murcia</a>. La programación de Fulfillment la realizo desde los servidores de Firebase y aquí dejo los scripts que desarrolle <a href="">Programación del Bot</a>.
 ---

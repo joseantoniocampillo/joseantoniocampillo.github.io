@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: conductor_contable.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2017 - 2018
+client: Transportes Murcia
 category: Web Development
 description: Aplicación Android. Agenda de viajes y calculadora de nómina para conductores de camión y aplicando convenio de la Región de Murcia <a href="https://play.google.com/store/apps/details?id=es.campito.www&hl=ca">Conductor Contable Murcia</a>. Gratuita con el código liberado en mi cuenta de GitHub.
 
