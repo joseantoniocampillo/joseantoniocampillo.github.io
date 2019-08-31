@@ -457,5 +457,5 @@ footer .footer-below {
 }
 
 .negro {
-    color: black;
+    color: black !important;
 }
