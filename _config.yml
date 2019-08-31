@@ -1,11 +1,11 @@
 # Site settings
-title: José Antonio Campillo
+title: José Antonio Campillo Espallardo
 email: campi1112@hotmail.com
 url: #https://example.github.io
 description: "Inquietudes, avances, proyectos"
 keywords: "Javascript, Java, Python, Docker, Networking"
 skills: #"Web Developer - Android Developer - Docker - Networking"
-meta_author: José Antonio Campillo
+meta_author: José Antonio Campillo Espallardo
 
 # Google webmaster tools
 google_verify:
@@ -25,10 +25,10 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c 
-  primary-rgb: "24,288,156"
-  secondary: 2c3e50
-  secondary-dark: 233140
+  primary: 567777 
+  primary-rgb: "86,119,119"
+  secondary: 6f5f60
+  secondary-dark: 90a09f
 
 # Footer settings
 footer:
