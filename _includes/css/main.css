@@ -459,3 +459,6 @@ footer .footer-below {
 .negro {
     color: black !important;
 }
+.subtitle {
+  font-size: 0.8em ! important;
+}
