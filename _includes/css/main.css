@@ -133,7 +133,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2em;
+        font-size: 1em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -454,11 +454,4 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
-}
-
-.negro {
-    color: black !important;
-}
-.subtitle {
-  font-size: 0.8em ! important;
 }
