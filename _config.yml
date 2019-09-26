@@ -1,5 +1,5 @@
 # Site settings
-title: jaCampilloE
+title: campi.dev
 email: campi1112@hotmail.com
 url: #https://example.github.io
 description: "Inquietudes, avances, proyectos"
@@ -49,7 +49,7 @@ social:
   #- title: bitbucket
   #  url: #http://bitbucket.org/jekyll
   - title: github
-    url: https://joseantoniocampillo.github.io/
+    url: https://github.com/joseantoniocampillo
 
 # Postal address (add as many lines as necessary)
 address:
