@@ -11,12 +11,3 @@ category: Web Development
 description: PWAs conceptuales. Puede verse en <a href="https://nomina-2018.firebaseapp.com/">PWA</a>. En mi cuenta de github tengo el <a href="https://github.com/joseantoniocampillo/nomina-2018-PWA-experience">código</a> Otra más nueva  <a href="https://murcia.convenio.info/">https://murcia.convenio.info/</a>.
 ---
 
-
-
-Algunas PWAs conceptuales. .
----
-=======
-description: Algunas PWAs conceptuales. Puede verse en <a href="https://nomina-2018.firebaseapp.com/">PWA</a>. En mi cuenta de github tengo el <a href="https://github.com/joseantoniocampillo/nomina-2018-PWA-experience">código</a>. (Requeridad de refactorización. Se agradecen no obstante pullrequest y advertencia de issues.)
-Otra más nueva  <a href="https://murcia.convenio.info/">https://murcia.convenio.info/</a>.
----
->>>>>>> 7c45a2988fe4df42e175149bd7c2c086183cf44f
