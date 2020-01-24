@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: 2018
+client: Personal
+category: Web Development (PWA)
+description: Progressive Web App a modo de concepto. Pido comprensión por el aspecto UI (del que me ocupé yo mismo, y se ve que no es mi fuerte). Puede verse en <a href="https://nomina-2018.firebaseapp.com/">PWA</a>. En mi cuenta de github tengo el <a href="https://github.com/joseantoniocampillo/nomina-2018-PWA-experience">código</a>. Así mismo estuvo enfocado principalmente a desarrollar una prueba concepto como PWA (Offline-first, responsive). Intentaré pronto dejar acabados, y exponer otros trabajos a modo concepto donde le dediqué más al aspecto de notificaciones y otras capacidades de los services workers.
+---
