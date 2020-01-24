@@ -1,11 +1,12 @@
 ---
 layout: default
-modal-id: 3
-date: 2019-07-10
-img: post_3_image.png
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
 alt: image-alt
-project-date: 2019
+project-date: 2018
 client: Personal
-category: Google Assistant
-description: Aplicación para el Asistente de Google. Por un stack compuesto por diversas plataformas de Google (Google Assistant, Dialogflow, Firebase), así como con un back-end personalizado programado en Node.js. <a href="https://assistant.google.com/services/a/uid/0000000237a1baba?hl%3Des&hl=es-ES&jsmode=o&source=web">Enlace a la Aplicación</a>.
+category: Web Development
+description: Algunas PWAs conceptuales. Puede verse en <a href="https://nomina-2018.firebaseapp.com/">PWA</a>. En mi cuenta de github tengo el <a href="https://github.com/joseantoniocampillo/nomina-2018-PWA-experience">código</a>. (Requeridad de refactorización. Se agradecen no obstante pullrequest y advertencia de issues.)
+Otra más nueva  <a href="https://murcia.convenio.info/">https://murcia.convenio.info/</a>
 ---
