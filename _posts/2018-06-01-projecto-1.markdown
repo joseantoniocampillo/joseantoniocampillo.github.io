@@ -7,5 +7,6 @@ alt: image-alt
 project-date: 2018
 client: Personal
 category: Web Development
-description: Progressive Web App a modo de concepto. Puede verse en <a href="https://nomina-2018.firebaseapp.com/">PWA</a>. En mi cuenta de github tengo el <a href="https://github.com/joseantoniocampillo/nomina-2018-PWA-experience">código</a>. Pido comprensión y disculpa a los seniors del desarrollo. Reconozco que necesita de varias pasadas de refactorización. Se agradecen no obstante pullrequest y advertencia de issues.
+description: Algunas PWAs conceptuales. Puede verse en <a href="https://nomina-2018.firebaseapp.com/">PWA</a>. En mi cuenta de github tengo el <a href="https://github.com/joseantoniocampillo/nomina-2018-PWA-experience">código</a>. (Requeridad de refactorización. Se agradecen no obstante pullrequest y advertencia de issues.)
+Otra más nueva  <a href="https://murcia.convenio.info/">https://murcia.convenio.info/</a>
 ---
